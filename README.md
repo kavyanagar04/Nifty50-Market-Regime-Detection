@@ -1,7 +1,7 @@
 # Nifty 50 Market Regime Detection using Gaussian Mixture Models (GMM)
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kavyanagar04/Nifty50-Market-Regime-Detection/blob/main/nifty50_regime_gmm_polished.ipynb)
-*(Replace `YOUR_USERNAME` and `YOUR_REPO` with your actual GitHub repository details to enable the nbviewer link.)*
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kavyanagar04/Nifty50-Market-Regime-Detection/blob/main/Nifty50_Market_Regime_Detection.ipynb)
+
 
 This is a complete, focused Quantitative Machine Learning project that detects the "mood" or "regime" of the Indian Stock Market (NSE Nifty 50) on any given trading day. The model automatically classifies each day into a **Bull (Uptrend)**, **Bear (Downtrend)**, or **Sideways (Ranging)** regime using unsupervised machine learning.
 
